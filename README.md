@@ -1,7 +1,3 @@
-# Lab 04-06
-
-The starter code for lab 04-06.
-
 
 ## Overview
 
