@@ -1,0 +1,52 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    height: 100% !important;
+    width: 100% !important;
+}
+
+#table-container{
+    height: 100%;
+    width: 46rem;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+    padding: 2rem;
+}
+
+.table{
+    margin: auto;
+    border: solid 1px;
+}
+
+.table tr td{
+    text-align: center !important;
+    vertical-align: middle;
+    font-size: 120%;
+    border: solid 1px;
+    width: 6rem;
+    height: 3.5rem;
+}
+
+#input{
+    width: 4rem;
+    font-size: 80%;
+    text-align: center !important;
+}
+
+#chart{
+    margin: auto;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    
+}
+
+.selected{
+    background-color: #f0f0ff;
+}
+
+.head{
+    background-color: #e0e0e0;
+}
