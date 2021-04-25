@@ -78,31 +78,4 @@ To start a basic server, use the following command:
 
 `python -m http.server 8000`
 
-You will need to move the code to add the event handlers to the `td` and `th` tags to just after the table has been generated.
 
-## Need Extra Challenge?
-
-If this was too easy, and you want some additional practice, try out one or more of the following extra features for increased learning:
-
-1. Implement a sort by column when a column header is selected.
-2. Implement keyboard navigation to allow the cursor keys to move up/down between rows, or left/right between cells within a row, while editing cells.  Moving to another cell will save the data into the `td` contents.
-
-
-## Getting Help
-
-If you run into difficulty, you may wish to check out some of the following resources:
-
-- https://developer.mozilla.org/en-US/docs/Learn/HTML - Tutorials and reference documentation for HTML by the Mozilla Developer Network (MDN)
-- https://developer.mozilla.org/en-US/docs/Learn/CSS - Tutorials and reference documentation for CSS by the Mozilla Developer Network (MDN)
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript - Tutorials and reference documentation for JavaScript by the Mozilla Developer Network (MDN)
-- https://www.w3schools.com/ - Tutorials for HTML, CSS, JavaScript, and jQuery by the W3Schools group
-- https://github.com/d3/d3/wiki - A guide for D3.js, by the D3 team
-- https://learn.jquery.com/ - Tutorial for jQuery, by the jQuery team
-- http://stackoverflow.com/ - A forum for asking questions about programming.  I bet you know this one already!
-
-Of course, you can always ask the TA for help!  However, learning how to find the answers out for yourself is not only more satisfying, but results in greater learning as well.
-
-
-## How to Submit
-
-Create your code inside this folder, commit, and then push your code to this repository to submit your lab assignment.
